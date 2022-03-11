@@ -1,0 +1,17 @@
+dir - listar pastas
+cd - navegar entre pastas; cd + pasta - vai pra pastar; cd + .. - retrocede da pasta
+cls - limpar comandos
+mkdir - criar pasta nova
+echo - printa elemento no diretorio; echo + > - direciona o elemento criado para um arquivo 
+del - deleta arquivos dentro do repositorio (pasta)
+rmdir + nm do repositorio- deleta o repositorio (usar flags /S e /Q)
+mv + arquivo + ./(pasta que recebera o arquivo) - move arquivo entre pastas
+
+git init - abri repositorio git
+ls + flag -a - lista repositorio git
+git add - cria criptografia para o arquivo
+git commit - cria etiquetas referentes aos arquivos criptografados
+git status - monitora status dos arquivos
+git push origin master - manda os arquivos criptografados com etiquetas para o github
+git push origin master - recupera os arquivos criptografados com etiquetas do github (geralmente para debug)
+git clone + url do github - clona diretorio do github (ja vem com a pasta git nele)
